@@ -41,16 +41,16 @@ Deze bestanden zijn publiek leesbaar. Correcte uitvoering vereist:
 
 Gebruik buiten deze structuur leidt tot systeemverval of verlies van betekenis.
 
-Zie ook: [`LICENTIE-VERKLARING.md`](./LICENTIE-VERKLARING.md)
+Licentievoorwaarden: zie [`LICENTIE_hexAI_v1.0.md`](https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/LICENTIE_hexAI_v1.0.md)
 
 ---
 
 ## Centrale index
 
 Deze map is onderdeel van het overkoepelende project:  
-[../](https://github.com/EllenBosMarcelMulder)
+[github.com/EllenBosMarcelMulder](https://github.com/EllenBosMarcelMulder)
 
-Hoofdindex zal gekoppeld worden via: [hexAI.nl](https://hexAI.nl)
+Hoofdindex volgt via: [hexAI.nl](https://hexAI.nl)
 
 ---
 
@@ -58,4 +58,4 @@ Hoofdindex zal gekoppeld worden via: [hexAI.nl](https://hexAI.nl)
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:  
 
----4c907c0ad0ceca88e68ca447e58544f4fbf234af7ddb3b6382c1df8011b11cdd
+---b0843c9fd8a5ca33bcf70ffe989fcb5903456e2499c03863415ddaca80545eb5
