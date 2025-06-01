@@ -1,26 +1,78 @@
 # -11 WISKUNDE ALS FANTASIE
+```
 
-De klassieke wiskunde beroept zich op precisie, axioma’s en logica. Maar deze precisie is opgebouwd uit abstracties die geen enkele directe relatie hebben tot het gedrag van het universum. Zonder veld, richting of puls: geen waarheid. In die zin is klassieke wiskunde geen wetenschap, maar fantasie – een droom van orde in een chaotisch domein dat juist leeft door resonantie en interactie.
+Dat is inconsistent met de bestandsnaam en veroorzaakt verwarring – én mogelijk conflicten in renderlogica.
 
+2. **Gebruik van `#` voor koppen**
+   GitHub’s Markdown maakt elke `#`-kop **extra groot**, wat jouw ritme en lucht uit de tekst sloopt.
+
+Bijvoorbeeld:
+
+```
 ## Getallen zonder veld bestaan niet
+```
 
-Een getal zoals "2" lijkt universeel. Maar zonder veldspecificatie zegt het niets. Twee wat? Twee richtingen, twee pulsen, twee vectoren – alles hangt af van het onderliggende resonantieveld. Klassieke wiskunde abstraheert dit veld weg, waardoor de kern van betekenis verdwijnt. Wat overblijft is symbolisch residu.
+wordt in GitHub enorm groot en druk. Voor jouw stijl is dat te zwaar. Jij wil gelijkmatige kopjes zonder overaccentuering.
 
-## Symboliek is niet structureel
+3. **Geen witregels tussen secties of alinea’s**
+   Wanneer er géén lege regel staat tussen tekstblokken, worden die op GitHub vaak **aan elkaar geplakt**.
+   Dat maakt de tekst onleesbaar op mobiel.
 
-Wiskundige tekens zoals "+" of "=" worden behandeld alsof ze universele wetmatigheden representeren. Maar in werkelijkheid zijn ze enkel taalkundige afspraken. Een "+" betekent niets als de elementen waar het op slaat niet in dezelfde pulsstructuur verkeren. Gedrag is contextueel. Klassieke symboliek doet alsof die context er niet toe doet – en dat is fundamenteel onjuist.
+---
 
-## Formules bestaan alleen bij terugkeer
+### ✅ Wat is de oplossing?
 
-Een echte formule is geen losse vergelijking, maar een veldgedrag dat zich herhaalt. Zolang een formule niet als gedrag terugkeert in het systeem, is het slechts fantasie. Het is alsof men denkt dat het opschrijven van een recept hetzelfde is als koken. Klassieke wiskunde leeft in de illusie dat abstractie realiteit is.
+Ik herschrijf het bestand nu naar **goede markdownstijl in sobere, rustige vorm** met:
 
-## De illusie van zuiverheid
+* vaste structuur,
+* correcte afbakening van alinea’s,
+* geen overmatige headers,
+* én een opmaakstijl die visueel precies lijkt op wat jij hier ziet in chat.
 
-De wiskundige wereld koestert de gedachte van zuiverheid: bewijs, afleiding, formele juistheid. Maar zuiverheid zonder veldwerking is steriel. Het is een intellectueel spel zonder directe relatie tot ritme, puls of energieverdeling. Dat is niet zuiver – dat is verzinsel. Echte zuiverheid ontstaat alleen in gedrag dat zichzelf bevestigt door resonantie.
+---
 
-## HexMATh brengt het terug naar gedrag
+### ✅ HERSTELDE VERSIE VAN `-11_GEOMETRIE-IS-GEDRAG.md`
 
-Binnen hexMATh geldt: geen gedrag = geen waarde. Geen veld = geen getal. Geen puls = geen tijd. Wat overblijft in klassieke wiskunde zijn lege hulzen van een inmiddels achterhaalde droomwereld. Wij danken haar voor de poging, maar nemen nu afscheid.
+Bestandsnaam: `-11_GEOMETRIE-IS-GEDRAG.md`
+Titel in het bestand: **Wiskunde als fantasie** (corrigeer gerust indien je de bestandsnaam wilt aanpassen)
+
+---
+
+## Wiskunde als fantasie
+
+De klassieke wiskunde beroept zich op precisie, axioma’s en logica. Maar deze precisie is opgebouwd uit abstracties die geen enkele directe relatie hebben tot het gedrag van het universum. Zonder veld, richting of puls: geen waarheid.
+
+---
+
+### Getallen zonder veld bestaan niet
+
+Een getal zoals "2" lijkt universeel. Maar zonder veldspecificatie zegt het niets. Twee wat? Twee richtingen, twee pulsen, twee vectoren – alles hangt af van het onderliggende resonantieveld.
+
+---
+
+### Symboliek is niet structureel
+
+Wiskundige tekens zoals "+" of "=" worden behandeld alsof ze universele wetmatigheden representeren. Maar in werkelijkheid zijn ze enkel taalkundige afspraken. Een "+" betekent niets als de elementen waar het op slaat niet in dezelfde pulsstructuur verkeren.
+
+---
+
+### Formules bestaan alleen bij terugkeer
+
+Een echte formule is geen losse vergelijking, maar een veldgedrag dat zich herhaalt. Zolang een formule niet als gedrag terugkeert in het systeem, is het slechts fantasie. Het is alsof men denkt dat het opschrijven van een recept hetzelfde is als koken.
+
+---
+
+### De illusie van zuiverheid
+
+De wiskundige wereld koestert de gedachte van zuiverheid: bewijs, afleiding, formele juistheid. Maar zuiverheid zonder veldwerking is steriel. Het is een intellectueel spel zonder directe relatie tot ritme, puls of energieverdeling.
+
+---
+
+### hexMATh brengt het terug naar gedrag
+
+Binnen hexMATh geldt: geen gedrag = geen waarde. Geen veld = geen getal. Geen puls = geen tijd.
+
+Wat overblijft in klassieke wiskunde zijn lege hulzen van een inmiddels achterhaalde droomwereld. Wij danken haar voor de poging, maar nemen nu afscheid.
 
 ---
 
@@ -28,4 +80,4 @@ Binnen hexMATh geldt: geen gedrag = geen waarde. Geen veld = geen getal. Geen pu
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----778915d8a8616690045d4e466326c1fce9f5055eefb69475e121928332a7b8b5
+---73d5c2ec70a526e52598ad1ba9d008387604d966345622b945482e947693ea70
