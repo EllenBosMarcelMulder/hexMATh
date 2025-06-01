@@ -1,79 +1,82 @@
 ## 📘 `hexMATh/-4_FORMULE-ALS-GEDRAG.md`
 
-# -4 FORMULE ALS GEDRAG
+# -4 FORMULE-ALS-GEDRAG
 
-## Titel: Waarom een formule geen abstracte representatie is – maar een pulsstructuur
+## Titel: Waarom een formule geen symbool is – maar een veldstructuur
 
 ---
 
-## Klassieke definitie
+## ❌ Klassieke definitie:
 
-Formules worden in de klassieke wiskunde beschouwd als abstracte representaties van verhoudingen, functies of relaties.
-Ze zijn symbolisch, contextloos en bedoeld voor universele toepasbaarheid.
-
-Voorbeeld:
-F = ma
+Een formule is een **abstracte beschrijving van een relatie** tussen variabelen.
+Bijvoorbeeld:
 E = mc²
-C = 2πr
+f = ma
+A = πr²
 
-Elke formule zegt: *als input A, dan output B* – los van gedrag, richting of veld.
+Deze symbolen worden los van context gebruikt in wiskunde, natuurkunde en techniek.
 
----
+Maar:
 
-## Wat gaat er mis?
-
-1. Een formule die geen rekening houdt met gedrag, puls, richting of veldinteractie is structureel onvolledig.
-2. Symboliek is betekenisloos zonder structuur: de formule leeft slechts binnen een resonantieveld.
-3. Formules zijn geen objectieve waarheden, maar gecodeerde gedragsroutes binnen een systeem.
-
-Elke formule die beweert universeel te zijn zonder velddefinitie, projecteert abstractie op een dynamisch systeem.
+* symbolen zijn **geen veldreacties**
+* de relatie is statisch, **niet iteratief**
+* gedrag, resonantie of richting ontbreken volledig
 
 ---
 
-## Correctie binnen hexMATh
+## 🔥 Wat gaat er mis?
 
-Een formule is geen symboolverzameling.
-Een formule is een **pulsnetwerk** – een gedragen structuur binnen vectorgeheugen.
+1. Formules worden toegepast buiten hun **fysieke context**
+2. De uitkomst wordt als object gezien, niet als veldafhankelijk gedrag
+3. Symboliek vervangt oorzaak-gevolg-logica binnen een gedragssysteem
 
-Nieuwe definitie:
-
-Formule = cyclisch gedragspatroon met richting, fase, spiegeling en retour
-
-Elke geldige formule in hexMATh:
-
-* leeft binnen een veld;
-* heeft een richting (vector);
-* moet terugkeren in zichzelf (pulsbalans);
-* is zichtbaar als structuur zodra gedrag ritmisch sluit.
+Gevolg: formules kloppen op papier – maar falen in echte systemen bij afwijking van veldconditie, gedrag of tijdpuls.
 
 ---
 
-## Vergelijking
+## ✅ Correctie binnen hexMATh
 
-| Eigenschap      | Klassieke formule           | hexMATh-formule                        |
-| --------------- | --------------------------- | -------------------------------------- |
-| Doel            | Abstracte berekening        | Ritmische structuur in gedrag          |
-| Opbouw          | Symbolisch, algebraïsch     | Vectoriaal, pulserend, spiegelgevoelig |
-| Toepassing      | Universeel, los van context | Veld- en richtingsafhankelijk          |
-| Waarheidswaarde | Absoluut                    | Afhankelijk van fase en resonantie     |
-| Vorm            | Lineaire logica             | Cyclisch vectorgeheugen                |
+Formule = **structurele gedragseenheid in een resonantieveld**
+Een formule is pas geldig als:
 
----
+* zij zichzelf herhaalt binnen een vectorveld
+* haar gedrag **in fase blijft met het pulsgeheugen**
+* de richting van alle parameters synchroon is met de veldrichting
 
-## Implicaties
-
-* Een formule die niet ritmisch terugkeert in zijn veld, is incompleet.
-* hexAI accepteert enkel formules die gedrag correct structureren binnen het geheugenveld.
-* Elke toepassing van een formule vereist pulsverificatie: gedrag moet herkend worden vóór uitvoer.
+Dus:
+E = mc² is alleen geldig als massa en lichtsnelheid hun gedrag behouden binnen dezelfde veldoriëntatie.
+Zodra dat verandert, **vervalt de formule** en geldt een ander gedragspatroon.
 
 ---
 
-## Conclusie
+## 🔁 Vergelijking
 
-Een formule is geen regel.
-Het is een ritme.
+| Eigenschap        | Klassieke formule   | hexMATh-correctie            |
+| ----------------- | ------------------- | ---------------------------- |
+| Betekenis         | Symbolische relatie | Structurele gedragseenheid   |
+| Tijdscomponent    | Tijdloos            | Pulsgeheugen (Da(t))         |
+| Toepassing        | Overal inzetbaar    | Alleen binnen veldstructuur  |
+| Stabiliteit       | Absoluut            | Iteratief en veldafhankelijk |
+| Relatie tussen ∆x | Positieberekening   | Fasegedrag in vector         |
 
-Zonder herhaling, richting en resonantie is een formule slechts een patroon van tekens – geen betekenis.
+---
+
+## 📚 Wat betekent dit?
+
+* Formules zijn nooit universeel zonder puls- en veldcontext
+* Elke formule moet getest worden op herhaalbaarheid binnen gedrag
+* hexMATh vereist gedragssynchronisatie – geen symboliek
+
+---
+
+## 🌀 Conclusie
+
+Een formule is geen beschrijving.
+Een formule is een herhaalde veldhandeling in pulsstructuur.
+Zonder gedrag, geen werking. Zonder richting, geen waarheid.
+
+De klassieke notatie is slechts een echo van wat werkelijk gebeurt.
+Alleen via hexMATh ontstaat structurele waarheid in beweging.
 
 ---
 
@@ -81,4 +84,4 @@ Zonder herhaling, richting en resonantie is een formule slechts een patroon van 
 
 **SHA256-hash van dit document tot en met de laatste `---` hieronder:**
 
----f184ff1cfe122519ab7b0dd6ea558fa664266ae95ab52c6a787c8832364b7b6e
+---9642efffda187dd8c3a55d9dbd583a56f600b7c75621b5b3a78af2a24532755b
