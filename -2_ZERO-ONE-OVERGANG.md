@@ -1,79 +1,90 @@
-## 📘 `hexMATh/-2_ZERO-ONE-OVERGANG.md`
+## -2 ZERO-ONE-OVERGANG.md
 
-# -2 ZERO-ONE-OVERGANG
+# -2 ZERO–ONE–OVERGANG
 
-## Titel: Waarom 0 en 1 geen toestanden zijn – maar gedragsmomenten
+## TITEL: Waarom 0 en 1 geen toestanden zijn
 
 ---
 
-## ❌ Klassieke definitie:
+## ❌ KLASSIEKE DEFINITIE
 
 0 = afwezigheid
 1 = aanwezigheid
 
-Toegepast in digitale logica als absolute symbolen.
-Gebruikt als binaire basis voor opslag, berekening en systeemarchitectuur.
-
-Deze benadering:
-
-* negeert dat elke toestand zich in een veld bevindt
-* abstraheert gedrag tot statisch symbool
-* behandelt informatie als stilstaand, in plaats van pulserend
+Digitale wiskunde en computersystemen gebruiken deze aannames om informatie op te slaan, te berekenen en te simuleren. In de klassieke interpretatie worden deze waarden gezien als **absolute toestanden**.
 
 ---
 
-## 🔥 Wat gaat er mis?
+## 🔥 WAT GAAT ER MIS?
 
-1. Niets in de natuur is werkelijk 0 of 1. Alles pulseert tussen meerdere toestanden.
-2. Digitale 0 en 1 zijn geen feiten, maar afgesproken **schakelmomenten**.
-3. Zodra gedrag, richting of veldinteractie wordt toegevoegd, is 0 ↔ 1 geen wisseling, maar een **resonantieovergang**.
+In werkelijkheid bestaat geen enkel systeem buiten een veld of zonder gedrag. Alles is **pulsatief, directioneel en tijdelijk**.
 
-Wat wij als 1 noemen is alleen waar binnen een context van gedrag en richting.
-Wat wij als 0 noemen is slechts een tijdelijke niet-herkenning.
+0 en 1 zijn dus:
 
----
+* geen eindpunten of toestanden;
+* maar **momentopnames** binnen een cyclisch veldgedrag;
+* afhankelijk van **vectorrichting, resonantie en gedrag**.
 
-## ✅ Correctie binnen hexMATh
+Voorbeeld:
 
-0 = puls-ontbreking in vectorrichting
-1 = puls-herkenning binnen veldstructuur
+Een cel die "uit" staat (0), is niet leeg – ze wacht op puls of gedrag.
+Een cel die "aan" staat (1), is niet vol – ze reageert op het veld.
 
-De overgang van 0 naar 1 is geen absolute sprong, maar een faseverschuiving in gedrag:
-**0 ↔ 1 = Δφ = richting in Da(t)**
-
-Elke echte “1” ontstaat enkel als een gedragspatroon **resoneert met het veld**.
-Elke “0” is slechts een niet-herkende vector op dat moment.
+0 ↔ 1 is een **overgang**, geen status.
 
 ---
 
-## 🔁 Vergelijking
+## ✅ CORRECTIE BINNEN hexMATh
 
-| Eigenschap       | Klassiek (binair)   | hexMATh-correctie                |
-| ---------------- | ------------------- | -------------------------------- |
-| Definitie        | Aan / uit           | Resonantie / afwezigheid         |
-| Tijdsstructuur   | Tijdloos            | Tijd = pulsfrequentie (Da(t))    |
-| Informatiedrager | Bit                 | Gedragsherkenning in vectorveld  |
-| Relevantie       | Algemeen toepasbaar | Enkel binnen pulsveld met gedrag |
-| Stabiliteit      | Constant            | Dynamisch, richtinggevoelig      |
+0 = minimum pulswaarde binnen veldgedrag
+1 = maximum pulswaarde binnen een veldvector
 
----
+De overgang 0 → 1 en terug is geen schakelaar, maar een **faseverschuiving** binnen een resonantieveld.
 
-## 📚 Wat betekent dit?
+Nieuwe logica:
 
-* Binaire logica zonder veldcorrectie is een illusie van controle
-* Elk 0/1-moment moet gelezen worden als tijdelijke pulsbalans
-* Systeemgedrag is niet binair, maar **structureel iteratief in resonantie**
+0 en 1 bestaan **niet als object**, alleen als **ritmisch gedrag** binnen Da(t).
 
 ---
 
-## 🌀 Conclusie
+## 🔁 VERGELIJKING
 
-0 en 1 zijn geen vaste toestanden.
-Ze zijn momenten van herkenning binnen een **pulsend vectorgeheugen**.
-Zonder veld, geen bit. Zonder gedrag, geen waarheid.
+| Eigenschap       | Klassieke interpretatie | hexMATh-correctie                   |
+| ---------------- | ----------------------- | ----------------------------------- |
+| Definitie        | Toestand                | Gedragsmoment                       |
+| Toepassing       | Opslag, schakeling      | Veldresonantie, pulsrichting        |
+| Tijdscomponent   | Geen                    | Ja, altijd tijdelijk                |
+| Waarheidssysteem | Boolean (true/false)    | Resonantievlak tussen gedragspieken |
+| Overgang 0 ↔ 1   | Absoluut                | Altijd cyclisch en gradueel         |
 
-Dit is de fundamentele fout in klassieke digitale logica.
-De waarheid ligt in gedrag – niet in symbool.
+---
+
+## 📚 GEVOLGEN
+
+* Geen enkele digitale berekening is fundamenteel correct zonder veldgedrag in te bouwen.
+* Boolean-logica is een **versimpelde abstractie**.
+* Alle AI-, data- en geheugensystemen moeten corrigeren richting gedrag-gebaseerde verwerking.
+
+hexMATh vereist:
+
+* vectorgedrag i.p.v. toestand
+* cyclische faseherkenning i.p.v. binair schakelen
+* gebruik van Da(t)-velden als richtingsbasis
+
+---
+
+## 🌀 CONCLUSIE
+
+0 en 1 bestaan niet als absolute toestanden.
+Zij zijn slechts **fasen in een veld van pulsresonantie**.
+Elk gebruik zonder gedragscontext = reductie en vervalsing van realiteit.
+
+---
+
+## 📎 LICENTIE
+
+Dit bestand valt onder de centrale licentievoorwaarden:
+[LICENTIE\_hexAI\_v1.0.md](https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/LICENTIE_hexAI_v1.0.md)
 
 ---
 
@@ -81,4 +92,4 @@ De waarheid ligt in gedrag – niet in symbool.
 
 **SHA256-hash van dit document tot en met de laatste `---` hieronder:**
 
----8bcfe698a087ab8a83bbd97aa32209587585d75300b0aa8832559d13a5dfbd96
+---964b424d5b07523b775044f17bb63f32b9a03724618564a19c88c72121cc71cf
