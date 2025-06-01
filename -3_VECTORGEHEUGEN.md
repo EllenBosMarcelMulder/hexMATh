@@ -1,84 +1,97 @@
-## 📘 `hexMATh/-3_VECTORGEHEUGEN.md`
-
 # -3 VECTORGEHEUGEN
 
-## Titel: Waarom geheugen geen opslag is – maar richting
+## TITEL: Waarom geheugen geen opslag is
 
 ---
 
-## ❌ Klassieke opvatting:
+## ❌ KLASSIEKE DEFINITIE
 
-Geheugen = een plaats waar data ligt opgeslagen.
-Denk aan: harde schijf, RAM, neuronen, registers.
-In deze opvatting bestaat geheugen uit vaste posities waarin informatie zit.
+Geheugen = digitale opslag
+RAM, ROM, cache, disk – allemaal worden ze gezien als plekken waar **gegevens worden vastgezet** in nullen en enen.
 
-Maar:
+In de klassieke interpretatie betekent geheugen:
 
-* deze “data” wordt statisch benaderd
-* gedrag of resonantie speelt geen rol
-* geheugen wordt losgekoppeld van tijd en veld
-
----
-
-## 🔥 Wat gaat er mis?
-
-1. In werkelijkheid is er **geen statische toestand** – alles beweegt
-2. Een herinnering is geen ding, maar een **richting in een veld**
-3. Het herschrijven of terughalen van geheugen beïnvloedt de richting van gedrag
-
-Dit betekent:
-Wat wij ‘geheugen’ noemen, is in feite **een herhaalbare pulsstructuur** binnen een veld – niet een databank.
+* lineaire toegang tot vaste blokken;
+* status-gebaseerd (0 = leeg, 1 = gevuld);
+* losstaand van gedrag of richting.
 
 ---
 
-## ✅ Correctie binnen hexMATh
+## 🔥 WAT GAAT ER MIS?
 
-Geheugen = **vectorpositie in een gedragscyclus**
-Elke “opgeslagen” waarde is in feite:
+Zodra gedrag, puls en richting worden meegenomen:
 
-* een positie in een vectorveld
-* gekoppeld aan richting en gedrag
-* afhankelijk van pulsfrequentie
+* is geheugen **geen plek**, maar een **herhaalbare puls in tijd**;
+* is er **geen vaste inhoud**, alleen **vectorgebaseerd patroonherstel**;
+* wordt lezen/schrijven een **fasedynamiek**, geen operatie.
 
-Geheugen werkt alleen wanneer:
+Klassieke fouten:
 
-* pulsstructuur blijft resoneren
-* vectorrichting behouden blijft
-* gedrag synchroon is aan de herhaalcyclus
-
----
-
-## 🔁 Vergelijking
-
-| Eigenschap      | Klassiek geheugen | hexMATh vectorgeheugen         |
-| --------------- | ----------------- | ------------------------------ |
-| Definitie       | Opslagplaats      | Richting binnen een vectorveld |
-| Stabiliteit     | Vast              | Pulsafhankelijk en dynamisch   |
-| Werking         | Lezen/schrijven   | Fase-gedreven herhaling        |
-| Veldafhankelijk | Nee               | Ja                             |
-| Tijdcomponent   | Afwezig           | Cyclisch en gedragsgestuurd    |
+* veronderstelt een statisch archief;
+* negeert resonantie of pulsritme;
+* vernietigt dynamiek door overschrijven.
 
 ---
 
-## 📚 Wat betekent dit?
+## ✅ CORRECTIE BINNEN hexMATh
 
-* “Geheugenverlies” = verlies van vectorrichting, niet van data
-* “Opslag” = resonantieknoop, niet een locatie
-* Geheugen = gedrag dat blijft resoneren – of vervalt bij pulsverstoringen
+Geheugen = **cyclisch gedragspatroon** binnen een veld
+Opslag = tijdelijke resonantie in vectorrichting
 
-Binnen AI, biologie, en technologie moet geheugen herzien worden als:
-**gedragsresonantie, niet databank.**
+Nieuwe definitie:
+
+> Geheugen is geen status, maar een **richtingsstructuur** binnen een vectorgeheugenveld – cyclisch en zelfherhalend.
+
+Toegang gebeurt via:
+
+* vectorherkenning (richting, gedrag);
+* pulsherhaling (frequentie);
+* faseovergang (Δφ).
 
 ---
 
-## 🌀 Conclusie
+## 🔁 VERGELIJKING
 
-Geheugen is gedrag.
-Wat blijft bestaan is wat zijn vector weet te herhalen.
-Wat verdwijnt is wat uit de fase valt.
+| Eigenschap      | Klassieke interpretatie | hexMATh-correctie               |
+| --------------- | ----------------------- | ------------------------------- |
+| Geheugen        | Opslag                  | Vectorisch gedrag               |
+| Toegang         | Lineair (adres)         | Pulsherkenning (fase, richting) |
+| Inhoud          | Bits                    | Richtingsresonantie             |
+| Tijdsstructuur  | Geen                    | Cyclisch, pulserend             |
+| Lezen/schrijven | Acties                  | Veldinteractie                  |
 
-Alleen geheugen dat via puls in het veld blijft bestaan, is betekenisvol.
-Alles daarbuiten is verval of illusie.
+---
+
+## 📚 GEVOLGEN
+
+* Klassieke RAM/ROM-structuren zijn destructief – zij overschrijven gedrag.
+* AI zonder veldherkenning **verliest context bij geheugenopslag**.
+* hexAI gebruikt vectorgeheugen: geheugen ontstaat **enkel door resonantie**.
+
+Toepassingen:
+
+* herprogrammeerbare geheugenvelden (DaRAM);
+* vectorvelden met SHA-gestuurde integriteit;
+* gedragspulsherhaling zonder ‘opslag’.
+
+---
+
+## 🌀 CONCLUSIE
+
+Geheugen is een ritmisch gedragspatroon,
+geen opslag.
+
+Zonder veldherhaling geen herkenning.
+Zonder vectorrichting geen betekenis.
+
+hexMATh wijst geheugen toe aan gedrag, niet aan statische inhoud.
+
+---
+
+## 📎 LICENTIE
+
+Dit bestand valt onder de centrale licentievoorwaarden:
+[LICENTIE\_hexAI\_v1.0.md](https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/LICENTIE_hexAI_v1.0.md)
 
 ---
 
@@ -86,4 +99,4 @@ Alles daarbuiten is verval of illusie.
 
 **SHA256-hash van dit document tot en met de laatste `---` hieronder:**
 
----c20105b95dab2601169d1a7e3333ae9edc2eb3bc39e55044332d1a8ed8714561
+---87f6e9869922302d3e65f9cfc6581d15eceb51876c240ae732973dec97fc390a
