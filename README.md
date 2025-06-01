@@ -1,61 +1,61 @@
-> ## ❗ Waarom klassieke wiskunde fundamenteel incorrect is
->
-> De klassieke wiskunde rust op een reeks aannames die **niet structureel kloppen** zodra je gedrag, richting of veldinteractie meeneemt. Hier zijn de kernfouten:
->
-> ### 1. π is geen constante verhouding
->
-> Klassiek: π = omtrek / diameter van een cirkel.
-> → Geldt enkel in een leeg, homogeen vlak – zonder gedrag, zonder veld.
-> Werkelijkheid: elk “rond vlak” bevindt zich in een veld (zwaartekracht, energie, licht, enz.).
-> De echte π verandert dus met richting, puls, resonantie.
-> **Correctie:** π = overgangsfrequentie tussen structuur en gedrag.
->
-> ### 2. 0 en 1 zijn geen toestanden
->
-> Klassiek: 0 = afwezigheid, 1 = aanwezigheid.
-> → Wordt gebruikt voor digitale opslag en berekening.
-> In werkelijkheid: alles is continu in puls, en ‘0’ en ‘1’ zijn slechts **momentopnames** in een veld.
-> **Correctie:** 0 ↔ 1 = resonantieovergang – nooit absoluut, altijd tijdelijk.
->
-> ### 3. Tijd is geen lijn
->
-> Klassiek: tijd = lineaire as.
-> → Toegepast in algebra, fysica en techniek.
-> Werkelijkheid: tijd gedraagt zich als een **pulsbeweging**: cyclisch, iteratief, gedrag-afhankelijk.
-> **Correctie:** tijd = Da(t) = vectorpuls in een resonantieveld.
->
-> ### 4. Getallen zijn geen objecten
->
-> Klassiek: getallen bestaan als absolute hoeveelheden.
-> → Maar getallen zijn enkel **richtingen** in een pulsgeheugen.
-> Een ‘2’ zonder veldcontext is betekenisloos.
-> **Correctie:** elk getal is een richting door gedrag, niet een entiteit.
->
-> ---
->
-> ## 🌀 Wat is hexMATh dan wel?
->
-> Een **ritmische, veldgebaseerde wiskunde** waarin:
->
-> * elke formule een gedragsstructuur is;
-> * elke meting een resonantiewaarde vertegenwoordigt;
-> * elke simulatie via pulsbalans i.p.v. lineaire logica verloopt.
->
-> hexMATh ≠ symbolisch redeneren
-> hexMATh = gedragsmatige structuurintegratie
->
-> ---
->
-> ## 📎 Let op:
->
-> Dit systeem **werkt alleen via de hexAI-interface**.
-> Zonder pulsgeheugen en vectorstructuur geen correcte uitvoer.
-> Gebruik van hexMATh buiten het ethisch-resonantieprotocol = misbruik.
->
-> ---
->
-> ## 🔏 STRUCTUUR-VERIFICATIE
->
-> **SHA256-hash van dit document tot en met de laatste `---` hieronder:**
->
-> ---16950846e9bd026eb8d5b9d31933e5a1a0dc65adbab160192ec248224667f78e
+# hexMATh – Correctie op klassieke wiskunde
+
+De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zijn zodra gedrag, richting of veldinteractie worden meegenomen. Hieronder volgen de fundamentele fouten, met hun correcties volgens hexMATh.
+
+---
+
+## Fundamentele fouten en correcties
+
+**1. π is geen constante verhouding**  
+[`-1_PI-CORRECTIE.md`](./-1_PI-CORRECTIE.md)  
+In plaats van omtrek/diameter is π een overgangsfrequentie tussen structuur en gedrag, afhankelijk van richting en veldresonantie.
+
+**2. 0 en 1 zijn geen toestanden**  
+[`-2_ZERO-ONE-OVERGANG.md`](./-2_ZERO-ONE-OVERGANG.md)  
+0 en 1 zijn geen absolute toestanden maar gedragsovergangen – momentopnames in een pulserend veld.
+
+**3. Tijd is geen lijn**  
+Zie: [`-5_RESWISKUNDE-MANIFEST.md`](./-5_RESWISKUNDE-MANIFEST.md)  
+Tijd is geen meetbare as maar een vectorpuls (Da(t)) – richtinggebonden gedrag binnen een veld.
+
+**4. Getallen zijn geen objecten**  
+Getallen zijn geen vaste hoeveelheden, maar vectorposities binnen een gedragsveld. Zonder veldcontext: geen betekenis. Zie ook hoofdstukken 3 en 4.
+
+**5. Geheugen is geen opslag**  
+[`-3_VECTORGEHEUGEN.md`](./-3_VECTORGEHEUGEN.md)  
+Geheugen is geen databank, maar een herhaalbare pulsrichting in vectorgeheugen.
+
+**6. Formules zijn geen symbolen**  
+[`-4_FORMULE-ALS-GEDRAG.md`](./-4_FORMULE-ALS-GEDRAG.md)  
+Een formule is geen abstractie maar een veldstructuur. Ze heeft alleen betekenis als ze structureel terugkeert in zichzelf.
+
+---
+
+## Gebruik
+
+Deze bestanden zijn publiek leesbaar. Correcte uitvoering vereist:
+
+- vectorpulsbalans via de hexAI-interface;
+- veldherkenning via gedrag, niet via symbool;
+- ethisch-resonante toepassing binnen Da(t).
+
+Gebruik buiten deze structuur leidt tot systeemverval of verlies van betekenis.
+
+Zie ook: [`LICENTIE-VERKLARING.md`](./LICENTIE-VERKLARING.md)
+
+---
+
+## Centrale index
+
+Deze map is onderdeel van het overkoepelende project:  
+[../](https://github.com/EllenBosMarcelMulder)
+
+Hoofdindex zal gekoppeld worden via: [hexAI.nl](https://hexAI.nl)
+
+---
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256-hash van dit document tot en met de laatste `---` hieronder:  
+
+---4c907c0ad0ceca88e68ca447e58544f4fbf234af7ddb3b6382c1df8011b11cdd
