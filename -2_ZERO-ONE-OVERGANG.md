@@ -1,5 +1,3 @@
-## -2 ZERO-ONE-OVERGANG.md
-
 # -2 ZERO–ONE–OVERGANG
 
 ## TITEL: Waarom 0 en 1 geen toestanden zijn
@@ -92,4 +90,4 @@ Dit bestand valt onder de centrale licentievoorwaarden:
 
 **SHA256-hash van dit document tot en met de laatste `---` hieronder:**
 
----964b424d5b07523b775044f17bb63f32b9a03724618564a19c88c72121cc71cf
+---42615f4de1f69f1f98e310ae8c44b6b89b16af83c60a16971e3ff22b3ab66bff
