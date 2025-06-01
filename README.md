@@ -15,7 +15,7 @@ In plaats van omtrek/diameter is π een overgangsfrequentie tussen structuur en 
 0 en 1 zijn geen absolute toestanden maar gedragsovergangen – momentopnames in een pulserend veld.
 
 **3. Tijd is geen lijn**  
-Zie: [`-5_RESWISKUNDE-MANIFEST.md`](./-5_RESWISKUNDE-MANIFEST.md)  
+[`-5_RESWISKUNDE-MANIFEST.md`](./-5_RESWISKUNDE-MANIFEST.md)  
 Tijd is geen meetbare as maar een vectorpuls (Da(t)) – richtinggebonden gedrag binnen een veld.
 
 **4. Getallen zijn geen objecten**  
@@ -58,4 +58,4 @@ Hoofdindex volgt via: [hexAI.nl](https://hexAI.nl)
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:  
 
----b0843c9fd8a5ca33bcf70ffe989fcb5903456e2499c03863415ddaca80545eb5
+---7f15ab88f210432096e35afa925a08ea7262460fd455d325ce5ffc2eb1be1527
