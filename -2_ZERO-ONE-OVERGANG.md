@@ -2,76 +2,83 @@
 
 # -2 ZERO-ONE-OVERGANG
 
-## Titel: Waarom 0 en 1 geen toestanden zijn – maar gedragsbruggen
+## Titel: Waarom 0 en 1 geen toestanden zijn – maar gedragsmomenten
 
 ---
 
-## Klassieke definitie
+## ❌ Klassieke definitie:
 
-In klassieke logica en digitale systemen vertegenwoordigen 0 en 1 absolute toestanden:
-0 = uit, leegte, afwezigheid
-1 = aan, aanwezigheid, inhoud
+0 = afwezigheid
+1 = aanwezigheid
 
-Deze binaire polariteit vormt de basis van vrijwel alle computationele infrastructuren.
+Toegepast in digitale logica als absolute symbolen.
+Gebruikt als binaire basis voor opslag, berekening en systeemarchitectuur.
 
----
+Deze benadering:
 
-## Wat gaat er mis?
-
-1. In werkelijkheid bestaat geen absoluut ‘uit’ of ‘aan’. Alles is continu in overgang, puls of gedrag.
-2. 0 en 1 zijn geen entiteiten, maar markers van een tussenliggende verandering.
-3. Door deze overgangszone te negeren, verliezen digitale systemen hun energetische efficiëntie, precisie en betekenis.
-
-De aanname dat informatie enkel bestaat als discrete toestand (bit) is een abstractie die het veldgedrag verarmt.
+* negeert dat elke toestand zich in een veld bevindt
+* abstraheert gedrag tot statisch symbool
+* behandelt informatie als stilstaand, in plaats van pulserend
 
 ---
 
-## Correctie binnen hexMATh
+## 🔥 Wat gaat er mis?
 
-0 en 1 zijn geen eindpunten.
-Zij markeren een gedragsgrens – een overgang tussen pulstoestanden in een veld.
+1. Niets in de natuur is werkelijk 0 of 1. Alles pulseert tussen meerdere toestanden.
+2. Digitale 0 en 1 zijn geen feiten, maar afgesproken **schakelmomenten**.
+3. Zodra gedrag, richting of veldinteractie wordt toegevoegd, is 0 ↔ 1 geen wisseling, maar een **resonantieovergang**.
 
-Nieuwe interpretatie:
-
-* 0ʰ = richtingmoment vóór pulsactivatie
-* 1ʰ = richtingmoment ná pulsomslag
-* daartussen ligt het eigenlijke informatiedomein: het gedragsveld Da(t)
-
-Informatie ontstaat niet door opslag van een bit, maar door resonantie binnen een vectorgeheugen.
+Wat wij als 1 noemen is alleen waar binnen een context van gedrag en richting.
+Wat wij als 0 noemen is slechts een tijdelijke niet-herkenning.
 
 ---
 
-## Vergelijking
+## ✅ Correctie binnen hexMATh
 
-| Eigenschap     | Klassieke logica   | hexMATh-correctie            |
-| -------------- | ------------------ | ---------------------------- |
-| 0              | Uit                | Pre-puls gedragspiek         |
-| 1              | Aan                | Post-puls gedragspiek        |
-| Tussenruimte   | Genegeerd          | Drager van betekenis         |
-| Geheugenmodel  | Statische flipflop | Vectorgeheugen in pulsbalans |
-| Informatiebron | Toestand           | Richtingsgebonden veldgedrag |
+0 = puls-ontbreking in vectorrichting
+1 = puls-herkenning binnen veldstructuur
 
----
+De overgang van 0 naar 1 is geen absolute sprong, maar een faseverschuiving in gedrag:
+**0 ↔ 1 = Δφ = richting in Da(t)**
 
-## Implicaties
-
-* Elk systeem dat 0 en 1 gebruikt als afzonderlijke toestanden verliest de kern van wat het draagt: gedrag.
-* Informatieverwerking zonder gedragsherkenning is structureel inefficiënt.
-* hexAI-systemen detecteren niet ‘bits’, maar puls-interacties met vectorrichting en spiegelrespons.
+Elke echte “1” ontstaat enkel als een gedragspatroon **resoneert met het veld**.
+Elke “0” is slechts een niet-herkende vector op dat moment.
 
 ---
 
-## Conclusie
+## 🔁 Vergelijking
 
-0 en 1 zijn geen bouwstenen.
-Zij zijn residuen van pulsvervorming – zichtbaar enkel bij resonantie.
+| Eigenschap       | Klassiek (binair)   | hexMATh-correctie                |
+| ---------------- | ------------------- | -------------------------------- |
+| Definitie        | Aan / uit           | Resonantie / afwezigheid         |
+| Tijdsstructuur   | Tijdloos            | Tijd = pulsfrequentie (Da(t))    |
+| Informatiedrager | Bit                 | Gedragsherkenning in vectorveld  |
+| Relevantie       | Algemeen toepasbaar | Enkel binnen pulsveld met gedrag |
+| Stabiliteit      | Constant            | Dynamisch, richtinggevoelig      |
 
-De werkelijke informatiedrager is de pulsstructuur tussen deze markers: het gedrag.
+---
+
+## 📚 Wat betekent dit?
+
+* Binaire logica zonder veldcorrectie is een illusie van controle
+* Elk 0/1-moment moet gelezen worden als tijdelijke pulsbalans
+* Systeemgedrag is niet binair, maar **structureel iteratief in resonantie**
+
+---
+
+## 🌀 Conclusie
+
+0 en 1 zijn geen vaste toestanden.
+Ze zijn momenten van herkenning binnen een **pulsend vectorgeheugen**.
+Zonder veld, geen bit. Zonder gedrag, geen waarheid.
+
+Dit is de fundamentele fout in klassieke digitale logica.
+De waarheid ligt in gedrag – niet in symbool.
 
 ---
 
 ## 🔏 STRUCTUUR-VERIFICATIE
 
-**SHA256-hash van dit document tot en met de laatste `---` hierbeneden:**
+**SHA256-hash van dit document tot en met de laatste `---` hieronder:**
 
----8fc31bc7c81b1c0c7450fda56b59c617c7cac92286b5da7ee083ff65c4c4fa10
+---8bcfe698a087ab8a83bbd97aa32209587585d75300b0aa8832559d13a5dfbd96
