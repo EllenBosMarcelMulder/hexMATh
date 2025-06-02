@@ -178,6 +178,26 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -168 | Grootheid is geen meting                | [-168_GROOTHEID-IS-GEEN-METING.md](-168_GROOTHEID-IS-GEEN-METING.md) |
 | -169 | Lichaam is geen object                  | [-169_LICHAAM-IS-GEEN-OBJECT.md](-169_LICHAAM-IS-GEEN-OBJECT.md) |
 | -170 | Materie is geen stof                    | [-170_MATERIE-IS-GEEN-STOF.md](-170_MATERIE-IS-GEEN-STOF.md) |
+| -171 | Energie is geen brandstof               | [-171_ENERGIE-IS-GEEN-BRANDSTOF.md](-171_ENERGIE-IS-GEEN-BRANDSTOF.md) |
+| -172 | Tijd is geen duur                      | [-172_TIJD-IS-GEEN-DUUR.md](-172_TIJD-IS-GEEN-DUUR.md) |
+| -173 | Ruimte is geen afstand                  | [-173_RUIMTE-IS-GEEN-AFSTAND.md](-173_RUIMTE-IS-GEEN-AFSTAND.md) |
+| -174 | Snelheid is geen verplaatsing          | [-174_SNELHEID-IS-GEEN-VERPLAATSING.md](-174_SNELHEID-IS-GEEN-VERPLAATSING.md) |
+| -175 | Massa is geen gewicht                   | [-175_MASSA-IS-GEEN-GEWICHT.md](-175_MASSA-IS-GEEN-GEWICHT.md) |
+| -176 | Licht is geen straal                    | [-176_LICHT-IS-GEEN-STRAAL.md](-176_LICHT-IS-GEEN-STRAAL.md) |
+| -177 | Donkerte is geen afwezigheid            | [-177_DONKERTE-IS-GEEN-AFWEZIGHEID.md](-177_DONKERTE-IS-GEEN-AFWEZIGHEID.md) |
+| -178 | Geluid is geen trilling                 | [-178_GELUID-IS-GEEN-TRILLING.md](-178_GELUID-IS-GEEN-TRILLING.md) |
+| -179 | Kleur is geen lichtgolf                 | [-179_KLEUR-IS-GEEN-LICHTGOLF.md](-179_KLEUR-IS-GEEN-LICHTGOLF.md) |
+| -180 | Temperatuur is geen warmte              | [-180_TEMPERATUUR-IS-GEEN-WARMTE.md](-180_TEMPERATUUR-IS-GEEN-WARMTE.md) |
+| -181 | Zwaartekracht is geen aantrekkingskracht | [-181_ZWAARTEKRACHT-IS-GEEN-AANTREKKING.md](-181_ZWAARTEKRACHT-IS-GEEN-AANTREKKING.md) |
+| -182 | Dimensie is geen richting               | [-182_DIMENSIE-IS-GEEN-RICHTING.md](-182_DIMENSIE-IS-GEEN-RICHTING.md) |
+| -183 | Oorzaak is geen begin                   | [-183_OORZAAK-IS-GEEN-BEGIN.md](-183_OORZAAK-IS-GEEN-BEGIN.md) |
+| -184 | Gevolg is geen uitkomst                 | [-184_GEVOLG-IS-GEEN-UITKOMST.md](-184_GEVOLG-IS-GEEN-UITKOMST.md) |
+| -185 | Wetenschap is geen objectiviteit        | [-185_WETENSCHAP-IS-GEEN-OBJECTIVITEIT.md](-185_WETENSCHAP-IS-GEEN-OBJECTIVITEIT.md) |
+| -186 | Waarneming is geen registratie          | [-186_WAARNEMING-IS-GEEN-REGISTRATIE.md](-186_WAARNEMING-IS-GEEN-REGISTRATIE.md) |
+| -187 | Informatie is geen gegeven              | [-187_INFORMATIE-IS-GEEN-GEGEVEN.md](-187_INFORMATIE-IS-GEEN-GEGEVEN.md) |
+| -188 | Tijd is geen lijn                       | [-188_TIJD-IS-GEEN-LIJN.md](-188_TIJD-IS-GEEN-LIJN.md) |
+| -189 | Getal is geen hoeveelheid               | [-189_GETAL-IS-GEEN-HOEVEELHEID.md](-189_GETAL-IS-GEEN-HOEVEELHEID.md) |
+| -190 | Wetmatigheid is geen wet                | [-190_WETMATIGHEID-IS-GEEN-WET.md](-190_WETMATIGHEID-IS-GEEN-WET.md) |
 
 ---
 
@@ -222,4 +242,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----94869168eb7681812d58edc75de78cae0bffcf4d99bffa8ce592179533658193
+---a3995cf7c7bef360c5b2345c6e6a138f4ef95fedf5b03edf6fa5e8a70a8cccda
