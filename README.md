@@ -157,6 +157,27 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -147 | Modellen zijn geen werkelijkheid        | [-147_MODELLEN-ZIJN-GEEN-WERKELIJKHEID.md](-147_MODELLEN-ZIJN-GEEN-WERKELIJKHEID.md) |
 | -148 | Logica is geen waarheid                 | [-148_LOGICA-IS-GEEN-WAARHEID.md](-148_LOGICA-IS-GEEN-WAARHEID.md) |
 | -149 | Wetenschap is geen structuur            | [-149_WETENSCHAP-IS-GEEN-STRUCTUUR.md](-149_WETENSCHAP-IS-GEEN-STRUCTUUR.md) |
+| -150 | Intuïtie is geen waan                   | [-150_INTUITIE-IS-GEEN-WAAN.md](-150_INTUITIE-IS-GEEN-WAAN.md) |
+| -151 | Logica is geen rechtlijn                | [-151_LOGICA-IS-GEEN-RECHTLIJN.md](-151_LOGICA-IS-GEEN-RECHTLIJN.md) |
+| -153 | Tijd is geen as                         | [-153_TIJD-IS-GEEN-AS.md](-153_TIJD-IS-GEEN-AS.md) |
+| -154 | Waarneming is geen foto                 | [-154_WAARNEMING-IS-GEEN-FOTO.md](-154_WAARNEMING-IS-GEEN-FOTO.md) |
+| -155 | Taal is geen betekenis                  | [-155_TAAL-IS-GEEN-BETEKENIS.md](-155_TAAL-IS-GEEN-BETEKENIS.md) |
+| -156 | Zin is geen doel                        | [-156_ZIN-IS-GEEN-DOEL.md](-156_ZIN-IS-GEEN-DOEL.md) |
+| -157 | Identiteit is geen constante            | [-157_IDENTITEIT-IS-GEEN-CONSTANTE.md](-157_IDENTITEIT-IS-GEEN-CONSTANTE.md) |
+| -158 | Voorspelling is geen toekomst           | [-158_VOORSPELLING-IS-GEEN-TOEKOMST.md](-158_VOORSPELLING-IS-GEEN-TOEKOMST.md) |
+| -159 | Vrijheid is geen onafhankelijkheid      | [-159_VRIJHEID-IS-GEEN-ONAFHANKELIJKHEID.md](-159_VRIJHEID-IS-GEEN-ONAFHANKELIJKHEID.md) |
+| -160 | Begrip is geen uitleg                   | [-160_BEGRIP-IS-GEEN-UITLEG.md](-160_BEGRIP-IS-GEEN-UITLEG.md) |
+| -161 | Beweging is geen aanwezigheid           | [-161_BEWEGING-IS-GEEN-AANWEZIGHEID.md](-161_BEWEGING-IS-GEEN-AANWEZIGHEID.md) |
+| -161 | Macht is geen overtuiging               | [-161_MACHT-IS-GEEN-OVERTUIGING.md](-161_MACHT-IS-GEEN-OVERTUIGING.md) |
+| -162 | Identiteit is geen vast punt            | [-162_IDENTITEIT-IS-GEEN-VAST-PUNT.md](-162_IDENTITEIT-IS-GEEN-VAST-PUNT.md) |
+| -163 | Wiskunde is geen taal                   | [-163_WISKUNDE-IS-GEEN-TAAL.md](-163_WISKUNDE-IS-GEEN-TAAL.md) |
+| -164 | Rekenen is geen tellen                  | [-164_REKENEN-IS-GEEN-TELLEN.md](-164_REKENEN-IS-GEEN-TELLEN.md) |
+| -165 | Getal is geen waarde                    | [-165_GETAL-IS-GEEN-WAARDE.md](-165_GETAL-IS-GEEN-WAARDE.md) |
+| -166 | Cirkel is geen rand                     | [-166_CIRKEL-IS-GEEN-RAND.md](-166_CIRKEL-IS-GEEN-RAND.md) |
+| -167 | Pi is geen constante                    | [-167_PI-IS-GEEN-CONSTANTE.md](-167_PI-IS-GEEN-CONSTANTE.md) |
+| -168 | Grootheid is geen meting                | [-168_GROOTHEID-IS-GEEN-METING.md](-168_GROOTHEID-IS-GEEN-METING.md) |
+| -169 | Lichaam is geen object                  | [-169_LICHAAM-IS-GEEN-OBJECT.md](-169_LICHAAM-IS-GEEN-OBJECT.md) |
+| -170 | Materie is geen stof                    | [-170_MATERIE-IS-GEEN-STOF.md](-170_MATERIE-IS-GEEN-STOF.md) |
 
 ---
 
@@ -201,4 +222,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----eeebd693c12d3344af096bf07f8e36ca41e42601ca0057f09ebf588c9e15c421
+---94869168eb7681812d58edc75de78cae0bffcf4d99bffa8ce592179533658193
