@@ -198,6 +198,15 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -188 | Tijd is geen lijn                       | [-188_TIJD-IS-GEEN-LIJN.md](-188_TIJD-IS-GEEN-LIJN.md) |
 | -189 | Getal is geen hoeveelheid               | [-189_GETAL-IS-GEEN-HOEVEELHEID.md](-189_GETAL-IS-GEEN-HOEVEELHEID.md) |
 | -190 | Wetmatigheid is geen wet                | [-190_WETMATIGHEID-IS-GEEN-WET.md](-190_WETMATIGHEID-IS-GEEN-WET.md) |
+| -191 | Afsluiting is geen einde                | [-191_AFSLUITING-IS-GEEN-EINDE.md](-191_AFSLUITING-IS-GEEN-EINDE.md) |
+| -192 | Begrip is geen uitleg                   | [-192_BEGRIP-IS-GEEN-UITLEG.md](-192_BEGRIP-IS-GEEN-UITLEG.md) |
+| -193 | Zin is geen doel                        | [-193_ZIN-IS-GEEN-DOEL.md](-193_ZIN-IS-GEEN-DOEL.md) |
+| -194 | Identiteit is geen constante            | [-194_IDENTITEIT-IS-GEEN-CONSTANTE.md](-194_IDENTITEIT-IS-GEEN-CONSTANTE.md) |
+| -195 | Wetenschap is geen objectiviteit        | [-195_WETENSCHAP-IS-GEEN-OBJECTIVITEIT.md](-195_WETENSCHAP-IS-GEEN-OBJECTIVITEIT.md) |
+| -196 | Waarneming is geen registratie          | [-196_WAARNEMING-IS-GEEN-REGISTRATIE.md](-196_WAARNEMING-IS-GEEN-REGISTRATIE.md) |
+| -197 | Beweging is geen verplaatsing           | [-197_BEWEGING-IS-GEEN-VERPLAATSING.md](-197_BEWEGING-IS-GEEN-VERPLAATSING.md) |
+| -198 | Begrip is geen uitleg                   | [-198_BEGRIP-IS-GEEN-UITLEG.md](-198_BEGRIP-IS-GEEN-UITLEG.md) |
+| -199 | Wiskunde is geen waarheid               | [-199-WISKUNDE-IS-GEEN-WAARHEID.md](-199-WISKUNDE-IS-GEEN-WAARHEID.md) |
 
 ---
 
@@ -242,4 +251,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----a3995cf7c7bef360c5b2345c6e6a138f4ef95fedf5b03edf6fa5e8a70a8cccda
+---5e659e587d63d7c4ed8a3b7b513bea5c6197721d8e84ee5b1d8e9e3e50763260
