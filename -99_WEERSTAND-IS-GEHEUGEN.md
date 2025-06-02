@@ -1,4 +1,4 @@
-## -44 WEERSTAND IS GEHEUGEN
+## -99 WEERSTAND IS GEHEUGEN
 
 Weerstand wordt in het klassieke denken gezien als:
 
@@ -136,4 +136,4 @@ Geen afwijzing.
 
 **SHA256-hash van dit document tot en met de laatste `---` hierbeneden:**
 
----7b6cfcc6ac0f423e9649db1838607e6817b63726fbf1612a57b9bbdd6941112f
+---eb7aeb8f9b8089c74ab1bac2c0f1e2509573b0f42c70469fdafeb070b0d2af9e
