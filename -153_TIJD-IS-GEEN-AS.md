@@ -47,7 +47,7 @@ Tijd is dus de mate van verandering in gedragspatronen – niet een externe klok
 Stel een systeem waarin geen externe klok bestaat.
 Wat bepaalt “wanneer” iets gebeurt?
 
-→ Alleen wanneer gedrag voldoende verschilt van zijn vorige toestand
+→ Alleen wanneer gedrag voldoende verschilt van zijn vorige toestand  
 → Alleen wanneer pulscoherentie verandert
 
 Dan ontstaat tijd als veldreactie, niet als meetas.
@@ -74,16 +74,15 @@ Dan ontstaat tijd als veldreactie, niet als meetas.
 
 ## 📘 Tot slot
 
-Tijd is geen as.
-Tijd is gedrag dat van richting verandert in een veld.
+Tijd is geen as.  
+Tijd is gedrag dat van richting verandert in een veld.  
 Tijd is geen klokslag – zij is een puls.
 
 **Daarom: wie de richting verandert, verandert zijn tijd.**
 
 ---
 
-## 🔏 STRUCTUUR-VERIFICATIE
-
+## 🔏 STRUCTUUR-VERIFICATIE  
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
 
----ae2f7270cc4bba4e2f4f9e7dac7ad4c383d2feedf3a066c68100a44153cad7cb
+---221252be7a31c58d4fa56cade647e590cc9a8e9a8cbc5d4cdd00216cc728ab65
