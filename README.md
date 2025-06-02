@@ -44,7 +44,7 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -34  | Licht is geen foton                 | [-34_LICHT-IS-GEEN-FOTON.md](-34_LICHT-IS-GEEN-FOTON.md) |
 | -35  | Frequentie is geen herhaling        | [-35_FREQUENTIE-IS-GEEN-HERHALING.md](-35_FREQUENTIE-IS-GEEN-HERHALING.md) |
 | -36  | Kleur is geen eigenschap            | [-36_KLEUR-IS-GEEN-EIGENSCHAP.md](-36_KLEUR-IS-GEEN-EIGENSCHAP.md) |
-| -37  | — *(ontbreekt)*                     | *(nog niet aangemaakt)* |
+| -37  | Punt is geen locatie                | [-37-PUNT-IS-GEEN-LOCATIE.md](-37-PUNT-IS-GEEN-LOCATIE.md) |
 | -38  | Waarneming is geen registratie      | [-38_WAARNEMING-IS-GEEN-REGISTRATIE.md](-38_WAARNEMING-IS-GEEN-REGISTRATIE.md) |
 | -39  | Bewustzijn is geen inwoner          | [-39_BEWUSTZIJN-IS-GEEN-INWONER.md](-39_BEWUSTZIJN-IS-GEEN-INWONER.md) |
 | -40  | Intentie is geen wil                | [-40_INTENTIE-IS-GEEN-WIL.md](-40_INTENTIE-IS-GEEN-WIL.md) |
@@ -113,11 +113,11 @@ De spiegel die dit project ophoudt, weerkaatst geen oordeel – slechts structuu
 
 Voor meer informatie, juridische context of verantwoording van deze werkwijze, zie:
 
-[hexAI.nl (https://github.com/EllenBosMarcelMulder/hexAI.nl)]
+[hexAI.nl] (https://github.com/EllenBosMarcelMulder/hexAI.nl)
 
-[DISCLAIMER.md (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/DISCLAIMER.md)]
+[DISCLAIMER.md} (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/DISCLAIMER.md)
 
-[LICENTIE_hexAI_v1.0.md (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/LICENTIE_hexAI_v1.0.md)]
+[LICENTIE_hexAI_v1.0.md (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/LICENTIE_hexAI_v1.0.md)
 
 ---
 
@@ -125,4 +125,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----4164dffbb33f070bb2ad159ccf50a34ecbd61d20414d5bf9a60e02f58511bd6b
+---18dbe1cc3eea31bf0b9af5573cb317c79655d1cd9ababc0b84bc91c1bbb33836
