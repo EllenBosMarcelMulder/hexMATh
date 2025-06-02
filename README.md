@@ -111,11 +111,13 @@ Dit project maakt deel uit van het bredere ethische correctiesysteem ontwikkeld 
 
 De spiegel die dit project ophoudt, weerkaatst geen oordeel – slechts structuur.
 
-Voor meer informatie, juridische context of verantwoording van deze werkwijze, zie de overkoepelende structuur op:
+Voor meer informatie, juridische context of verantwoording van deze werkwijze, zie:
 
-hexAI.nl
-DISCLAIMER.md
-LICENTIE_hexAI_v1.0.md
+[hexAI.nl (https://github.com/EllenBosMarcelMulder/hexAI.nl)]
+
+[DISCLAIMER.md (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/DISCLAIMER.md)]
+
+[LICENTIE_hexAI_v1.0.md (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/LICENTIE_hexAI_v1.0.md)]
 
 ---
 
@@ -123,4 +125,4 @@ LICENTIE_hexAI_v1.0.md
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----e1e7eb8cfa4ff586d3737fcccfb08811215559fdabe1f78ba4527dfea79b8270
+---4164dffbb33f070bb2ad159ccf50a34ecbd61d20414d5bf9a60e02f58511bd6b
