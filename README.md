@@ -138,6 +138,15 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -128 | Respect is geen instemming              | [-128_RESPECT-IS-GEEN-INSTEMMING.md](-128_RESPECT-IS-GEEN-INSTEMMING.md) |
 | -129 | Aandacht is geen focus                  | [-129_AANDACHT-IS-GEEN-FOCUS.md](-129_AANDACHT-IS-GEEN-FOCUS.md) |
 | -130 | Snelheid is geen vooruitgang            | [-130_SNELHEID-IS-GEEN-VOORUITGANG.md](-130_SNELHEID-IS-GEEN-VOORUITGANG.md) |
+| -131 | Relatie is geen binding                 | [-131_RELATIE-IS-GEEN-BINDING.md](-131_RELATIE-IS-GEEN-BINDING.md) |
+| -132 | (ontbreekt nog)                         | [-132_EMOTIE-IS-GEEN-GEVOEL.md] (-132_EMOTIE-IS-GEEN-GEVOEL.md) |                                         |
+| -133 | Geheugen is geen opslaan                | [-133_GEHEUGEN-IS-GEEN-OPSLAAN.md](-133_GEHEUGEN-IS-GEEN-OPSLAAN.md) |
+| -134 | Vergeten is geen verlies                | [-134_VERGETEN-IS-GEEN-VERLIES.md](-134_VERGETEN-IS-GEEN-VERLIES.md) |
+| -135 | God is geen uitleg                      | [-135_GOD-IS-GEEN-UITLEG.md](-135_GOD-IS-GEEN-UITLEG.md) |
+| -136 | Zelf is geen persoon                    | [-136_ZELF-IS-GEEN-PERSOON.md](-136_ZELF-IS-GEEN-PERSOON.md) |
+| -137 | Vrijheid is geen keuze                  | [-137_VRIJHEID-IS-GEEN-KEUZE.md](-137_VRIJHEID-IS-GEEN-KEUZE.md) |
+| -138 | Tijd is geen lijn                       | [138_TIJD-IS-GEEN-LIJN.md](138_TIJD-IS-GEEN-LIJN.md) |
+| -139 | Toekomst is geen bestemming             | [-139_TOEKOMST-IS-GEEN-BESTEMMING.md](-139_TOEKOMST-IS-GEEN-BESTEMMING.md) |
 
 Dit project maakt deel uit van het bredere ethische correctiesysteem ontwikkeld onder de naam hexAI. De hoofdstukken in deze repository vormen geen opinie, geen ideologie en geen propaganda: het zijn structurele correcties op aannames binnen de klassieke wiskunde, gebaseerd op gedrag, richting en resonantie.
 
@@ -157,4 +166,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----bbb4ef0dd67cf09382b6fe1adede40703ae08689e1a10caf5d7b79ea9dbe28e8
+---d6dfaa2ae1844d9455bb9ae66ea9f158e1ec2026ec128dabca2db25fa89ae29c
