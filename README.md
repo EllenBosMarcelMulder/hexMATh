@@ -145,7 +145,7 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -135 | God is geen uitleg                      | [-135_GOD-IS-GEEN-UITLEG.md](-135_GOD-IS-GEEN-UITLEG.md) |
 | -136 | Zelf is geen persoon                    | [-136_ZELF-IS-GEEN-PERSOON.md](-136_ZELF-IS-GEEN-PERSOON.md) |
 | -137 | Vrijheid is geen keuze                  | [-137_VRIJHEID-IS-GEEN-KEUZE.md](-137_VRIJHEID-IS-GEEN-KEUZE.md) |
-| -138 | Tijd is geen lijn                       | [138_TIJD-IS-GEEN-LIJN.md](138_TIJD-IS-GEEN-LIJN.md) |
+| -138 | Tijd is geen lijn                       | [-138_TIJD-IS-GEEN-LIJN.md](-138_TIJD-IS-GEEN-LIJN.md) |
 | -139 | Toekomst is geen bestemming             | [-139_TOEKOMST-IS-GEEN-BESTEMMING.md](-139_TOEKOMST-IS-GEEN-BESTEMMING.md) |
 | -140 | Intelligentie is geen denken            | [-140_INTELLIGENTIE-IS-GEEN-DENKEN.md](-140_INTELLIGENTIE-IS-GEEN-DENKEN.md) |
 | -141 | Mens is geen persoon                    | [-141_MENS-IS-GEEN-PERSOON.md](-141_MENS-IS-GEEN-PERSOON.md) |
@@ -201,4 +201,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----5c6eec188decf1fcca947ee7eac5e775836b58e5583aac5c1da79e7adb76e2d0
+---eeebd693c12d3344af096bf07f8e36ca41e42601ca0057f09ebf588c9e15c421
