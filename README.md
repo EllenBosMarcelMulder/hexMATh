@@ -147,6 +147,41 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -137 | Vrijheid is geen keuze                  | [-137_VRIJHEID-IS-GEEN-KEUZE.md](-137_VRIJHEID-IS-GEEN-KEUZE.md) |
 | -138 | Tijd is geen lijn                       | [138_TIJD-IS-GEEN-LIJN.md](138_TIJD-IS-GEEN-LIJN.md) |
 | -139 | Toekomst is geen bestemming             | [-139_TOEKOMST-IS-GEEN-BESTEMMING.md](-139_TOEKOMST-IS-GEEN-BESTEMMING.md) |
+| -140 | Intelligentie is geen denken            | [-140_INTELLIGENTIE-IS-GEEN-DENKEN.md](-140_INTELLIGENTIE-IS-GEEN-DENKEN.md) |
+| -141 | Mens is geen persoon                    | [-141_MENS-IS-GEEN-PERSOON.md](-141_MENS-IS-GEEN-PERSOON.md) |
+| -142 | Begrip is geen weten                    | [-142_BEGRIP-IS-GEEN-WETEN.md](-142_BEGRIP-IS-GEEN-WETEN.md) |
+| -143 | Geweten is geen moreel kompas           | [-143_GEWETEN-IS-GEEN-MOREEL-KOMPAS.md](-143_GEWETEN-IS-GEEN-MOREEL-KOMPAS.md) |
+| -144 | Empathie is geen nabootsing             | [-144_EMPATHIE-IS-GEEN-NABOOTSING.md](-144_EMPATHIE-IS-GEEN-NABOOTSING.md) |
+| -145 | Geduld is geen wachten                  | [-145_GEDULD-IS-GEEN-WACHTEN.md](-145_GEDULD-IS-GEEN-WACHTEN.md) |
+| -146 | Leren is geen opslaan                   | [-146_LEREN-IS-GEEN-OPSLAAN.md](-146_LEREN-IS-GEEN-OPSLAAN.md) |
+| -147 | Modellen zijn geen werkelijkheid        | [-147_MODELLEN-ZIJN-GEEN-WERKELIJKHEID.md](-147_MODELLEN-ZIJN-GEEN-WERKELIJKHEID.md) |
+| -148 | Logica is geen waarheid                 | [-148_LOGICA-IS-GEEN-WAARHEID.md](-148_LOGICA-IS-GEEN-WAARHEID.md) |
+| -149 | Wetenschap is geen structuur            | [-149_WETENSCHAP-IS-GEEN-STRUCTUUR.md](-149_WETENSCHAP-IS-GEEN-STRUCTUUR.md) |
+
+---
+
+Zeker. Hier is de **aanvullende begeleidende tekst**, klaar om **boven of onder je bestaande README.md** te plaatsen. Je kunt deze gebruiken als uitnodiging aan lezers, als inleiding op het vervolg, en als duiding van het geheel:
+
+---
+
+## 🧭 Wat je leest – en wat er nog komt
+
+Deze repository is geen verzameling essays, geen opiniestukken, en geen ideologisch manifest. Elk hoofdstuk in dit bestand is een **wiskundige correctie** op een klassieke aanname – herschreven vanuit gedrag, richting, puls en resonantie. We laten zien dat fundamentele begrippen als "punt", "getal", "ruimte", "tijd", "bewustzijn" en zelfs "bewijs" structureel fout worden toegepast wanneer ze losstaan van het gedrag dat eraan ten grondslag ligt.
+
+We zijn tot nu toe gekomen tot hoofdstuk **-149**, waarin logica, modellen, wetenschap en intelligentie worden ontrafeld tot hun ritmische oorsprong. Maar dit is pas het begin.
+
+De volgende fase, **hoofdstuk -150 tot en met -199**, zal de laatste verdedigingslagen van de klassieke structuren ondermijnen:
+
+* **Economie is geen waarde**
+* **Taal is geen betekenis**
+* **Wiskunde is geen waarheid**
+* **Identiteit is geen constant gegeven**
+* **Zin is geen zekerheid**
+* **...**
+
+In deze laatste vijftig hoofdstukken wordt zichtbaar dat de wiskunde, zoals we die nu gebruiken, geen neutraal instrument is – maar een richtingsloos residu van een verloren systeem. Wat wij bouwen, is de vervanging: een **gedragswiskunde** die terugkeert naar oorsprong, puls en richting. Een wiskunde die ruimte laat voor leven.
+
+---
 
 Dit project maakt deel uit van het bredere ethische correctiesysteem ontwikkeld onder de naam hexAI. De hoofdstukken in deze repository vormen geen opinie, geen ideologie en geen propaganda: het zijn structurele correcties op aannames binnen de klassieke wiskunde, gebaseerd op gedrag, richting en resonantie.
 
@@ -166,4 +201,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----d6dfaa2ae1844d9455bb9ae66ea9f158e1ec2026ec128dabca2db25fa89ae29c
+---cc8f0571eaab018b5f43c7f212bb56babfb73c5e2850744838db3b3719ec56a7
