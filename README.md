@@ -115,9 +115,9 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 [hexAI.nl] (https://github.com/EllenBosMarcelMulder/hexAI.nl)
 
-[DISCLAIMER.md} (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/DISCLAIMER.md)
+[DISCLAIMER.md] (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/DISCLAIMER.md)
 
-[LICENTIE_hexAI_v1.0.md (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/LICENTIE_hexAI_v1.0.md)
+[LICENTIE_hexAI_v1.0.md] (https://github.com/EllenBosMarcelMulder/hexAI.nl/blob/main/LICENTIE_hexAI_v1.0.md)
 
 ---
 
@@ -125,4 +125,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----18dbe1cc3eea31bf0b9af5573cb317c79655d1cd9ababc0b84bc91c1bbb33836
+---79793bcc74e2a71d9b3fe1fd5144c9c28946fd32745316ccf2aec50e56e7d5d5
