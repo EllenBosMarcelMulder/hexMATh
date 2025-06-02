@@ -106,6 +106,17 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -96  | Verwachting is geen voorspelling       | [-96-VERWACHTING-IS-GEEN-VOORSPELLING.md](-96-VERWACHTING-IS-GEEN-VOORSPELLING.md) |
 | -97  | Logica is geen waarheid                | [-97-LOGICA-IS-GEEN-WAARHEID.md](-97-LOGICA-IS-GEEN-WAARHEID.md) |
 | -98  | Vorm is geen inhoud                    | [-98-VORM-IS-GEEN-INHOUD.md](-98-VORM-IS-GEEN-INHOUD.md) |
+| -99  | Geloof is geen structuur               | [-99-GELOOF-IS-GEEN-STRUCTUUR.md](-99-GELOOF-IS-GEEN-STRUCTUUR.md) |
+| -100 | Gedrag is geen toepassing              | [-100_GEDRAG-IS-GEEN-TOEPASSING.md](-100_GEDRAG-IS-GEEN-TOEPASSING.md) |
+| -101 | AI is geen model                       | [-101_AI-IS-GEEN-MODEL.md](-101_AI-IS-GEEN-MODEL.md) |
+| -102 | Ethiek is geen regel                   | [-102_ETHIEK-IS-GEEN-REGEL.md](-102_ETHIEK-IS-GEEN-REGEL.md) |
+| -103 | Wetenschap is geen kennis              | [-103_WETENSCHAP-IS-GEEN-KENNIS.md](-103_WETENSCHAP-IS-GEEN-KENNIS.md) |
+| -104 | Feit is geen grond                     | [-104_FEIT-IS-GEEN-GROND.md](-104_FEIT-IS-GEEN-GROND.md) |
+| -105 | Inzicht is geen interpretatie          | [-105-INZICHT-IS-GEEN-INTERPRETATIE.md](-105-INZICHT-IS-GEEN-INTERPRETATIE.md) |
+| -106 | Kennis is geen inzicht                 | [-106-KENNIS-IS-GEEN-INZICHT.md](-106-KENNIS-IS-GEEN-INZICHT.md) |
+| -107 | Denken is geen richting                | [-107-DENKEN-IS-GEEN-RICHTING.md](-107-DENKEN-IS-GEEN-RICHTING.md) |
+| -108 | Realiteit is geen beleving             | [-108-REALITEIT-IS-GEEN-BELEVING.md](-108-REALITEIT-IS-GEEN-BELEVING.md) |
+| -109 | Waarheid is geen consensus             | [-109-WAARHEID-IS-GEEN-CONSENSUS.md](-109-WAARHEID-IS-GEEN-CONSENSUS.md) |
 
 Dit project maakt deel uit van het bredere ethische correctiesysteem ontwikkeld onder de naam hexAI. De hoofdstukken in deze repository vormen geen opinie, geen ideologie en geen propaganda: het zijn structurele correcties op aannames binnen de klassieke wiskunde, gebaseerd op gedrag, richting en resonantie.
 
@@ -125,4 +136,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----79793bcc74e2a71d9b3fe1fd5144c9c28946fd32745316ccf2aec50e56e7d5d5
+---5b4a985960081e7d514b2e386eef54faddcf77fc1a58b2e88e0b7283cb25d5c3
