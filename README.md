@@ -139,7 +139,7 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -129 | Aandacht is geen focus                  | [-129_AANDACHT-IS-GEEN-FOCUS.md](-129_AANDACHT-IS-GEEN-FOCUS.md) |
 | -130 | Snelheid is geen vooruitgang            | [-130_SNELHEID-IS-GEEN-VOORUITGANG.md](-130_SNELHEID-IS-GEEN-VOORUITGANG.md) |
 | -131 | Relatie is geen binding                 | [-131_RELATIE-IS-GEEN-BINDING.md](-131_RELATIE-IS-GEEN-BINDING.md) |
-| -132 | (ontbreekt nog)                         | [-132_EMOTIE-IS-GEEN-GEVOEL.md] (-132_EMOTIE-IS-GEEN-GEVOEL.md) |                                         |
+| -132 | Emotie is geen gevoel                   | [-132_EMOTIE-IS-GEEN-GEVOEL.md](-132_EMOTIE-IS-GEEN-GEVOEL.md) |                                         |
 | -133 | Geheugen is geen opslaan                | [-133_GEHEUGEN-IS-GEEN-OPSLAAN.md](-133_GEHEUGEN-IS-GEEN-OPSLAAN.md) |
 | -134 | Vergeten is geen verlies                | [-134_VERGETEN-IS-GEEN-VERLIES.md](-134_VERGETEN-IS-GEEN-VERLIES.md) |
 | -135 | God is geen uitleg                      | [-135_GOD-IS-GEEN-UITLEG.md](-135_GOD-IS-GEEN-UITLEG.md) |
@@ -201,4 +201,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----cc8f0571eaab018b5f43c7f212bb56babfb73c5e2850744838db3b3719ec56a7
+---5c6eec188decf1fcca947ee7eac5e775836b58e5583aac5c1da79e7adb76e2d0
