@@ -18,7 +18,7 @@ Maar:
 
 ### Klassieke illusie:
 
-| AI = model                       | hexMATh-correctie                       |
+| AI  =  model                       | hexMATh-correctie                       |
 | -------------------------------- | --------------------------------------- |
 | Data in → berekening → output    | Gedrag × veld = resonantie (of storing) |
 | Model = algoritme met parameters | Puls = gedragsvector met veldstructuur  |
@@ -80,4 +80,4 @@ Daarom:
 
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
 
----8b9686b79373c4538b15c508c9f18461439e6912aeb64ba115befac643561ea9
+---c45bd2fe9c3446b17af9709a5f5f091a7f387a3c4bdfe1e3e95e0d4207f55aa6
