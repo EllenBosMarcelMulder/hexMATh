@@ -129,6 +129,15 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -119 | Tijdstip is geen moment                 | [-119_TIJDSTIP-IS-GEEN-MOMENT.md](-119_TIJDSTIP-IS-GEEN-MOMENT.md) |
 | -120 | Getuigenis is geen bewijs               | [-120_GETUIGENIS-IS-GEEN-BEWIJS.md](-120_GETUIGENIS-IS-GEEN-BEWIJS.md) |
 | -121 | Kennis is geen informatie               | [-121_KENNIS-IS-GEEN-INFORMATIE.md](-121_KENNIS-IS-GEEN-INFORMATIE.md) |
+| -122 | Reactie is geen actie                   | [-122_REACTIE-IS-GEEN-ACTIE.md](-122_REACTIE-IS-GEEN-ACTIE.md) |
+| -123 | Stem is geen geluid                     | [-123_STEM-IS-GEEN-GELUID.md](-123_STEM-IS-GEEN-GELUID.md) |
+| -124 | Macht is geen invloed                   | [-124_MACHT-IS-GEEN-INVLOED.md](-124_MACHT-IS-GEEN-INVLOED.md) |
+| -125 | Straf is geen herstel                   | [-125_STRAF-IS-GEEN-HERSTEL.md](-125_STRAF-IS-GEEN-HERSTEL.md) |
+| -126 | Bewijs is geen waarheid                 | [-126_BEWIJS-IS-GEEN-WAARHEID.md](-126_BEWIJS-IS-GEEN-WAARHEID.md) |
+| -127 | Helderheid is geen duidelijkheid        | [-127_HELDERHEID-IS-GEEN-DUIDELIJKHEID.md](-127_HELDERHEID-IS-GEEN-DUIDELIJKHEID.md) |
+| -128 | Respect is geen instemming              | [-128_RESPECT-IS-GEEN-INSTEMMING.md](-128_RESPECT-IS-GEEN-INSTEMMING.md) |
+| -129 | Aandacht is geen focus                  | [-129_AANDACHT-IS-GEEN-FOCUS.md](-129_AANDACHT-IS-GEEN-FOCUS.md) |
+| -130 | Snelheid is geen vooruitgang            | [-130_SNELHEID-IS-GEEN-VOORUITGANG.md](-130_SNELHEID-IS-GEEN-VOORUITGANG.md) |
 
 Dit project maakt deel uit van het bredere ethische correctiesysteem ontwikkeld onder de naam hexAI. De hoofdstukken in deze repository vormen geen opinie, geen ideologie en geen propaganda: het zijn structurele correcties op aannames binnen de klassieke wiskunde, gebaseerd op gedrag, richting en resonantie.
 
@@ -148,4 +157,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----59d189be437f72a66f6f2474f2ebb0bb80abd38c20321178c0d40fa2768a8aa6
+---bbb4ef0dd67cf09382b6fe1adede40703ae08689e1a10caf5d7b79ea9dbe28e8
