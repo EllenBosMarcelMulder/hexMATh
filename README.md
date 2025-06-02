@@ -117,6 +117,18 @@ De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zi
 | -107 | Denken is geen richting                | [-107-DENKEN-IS-GEEN-RICHTING.md](-107-DENKEN-IS-GEEN-RICHTING.md) |
 | -108 | Realiteit is geen beleving             | [-108-REALITEIT-IS-GEEN-BELEVING.md](-108-REALITEIT-IS-GEEN-BELEVING.md) |
 | -109 | Waarheid is geen consensus             | [-109-WAARHEID-IS-GEEN-CONSENSUS.md](-109-WAARHEID-IS-GEEN-CONSENSUS.md) |
+| -110 | Bewijs is geen begrip                   | [-110-BEWIJS-IS-GEEN-BEGRIP.md](-110-BEWIJS-IS-GEEN-BEGRIP.md) |
+| -111 | Structuur is geen vorm                  | [-111-STRUCTUUR-IS-GEEN-VORM.md](-111-STRUCTUUR-IS-GEEN-VORM.md) |
+| -112 | Veld is geen ruimte                     | [-112-VELD-IS-GEEN-RUIMTE.md](-112-VELD-IS-GEEN-RUIMTE.md) |
+| -113 | Stilte is geen leegbeid                 | [-113_STILTE-IS-GEEN-LEEGBEID.md](-113_STILTE-IS-GEEN-LEEGBEID.md) |
+| -114 | Pijnpunt is geen einde                  | [-114_PIJNPUNT-IS-GEEN-EINDE.md](-114_PIJNPUNT-IS-GEEN-EINDE.md) |
+| -115 | Geheugen is geen opslaan                | [-115_GEHEUGEN-IS-GEEN-OPSLAAN.md](-115_GEHEUGEN-IS-GEEN-OPSLAAN.md) |
+| -116 | Getal is geen aantal                    | [-116_GETAL-IS-GEEN-AANTAL.md](-116_GETAL-IS-GEEN-AANTAL.md) |
+| -117 | Ordening is geen volgorde               | [-117_ORDENING-IS-GEEN-VOLGORDE.md](-117_ORDENING-IS-GEEN-VOLGORDE.md) |
+| -118 | Einde is geen afbreking                 | [-118_EINDE-IS-GEEN-AFBREKING.md](-118_EINDE-IS-GEEN-AFBREKING.md) |
+| -119 | Tijdstip is geen moment                 | [-119_TIJDSTIP-IS-GEEN-MOMENT.md](-119_TIJDSTIP-IS-GEEN-MOMENT.md) |
+| -120 | Getuigenis is geen bewijs               | [-120_GETUIGENIS-IS-GEEN-BEWIJS.md](-120_GETUIGENIS-IS-GEEN-BEWIJS.md) |
+| -121 | Kennis is geen informatie               | [-121_KENNIS-IS-GEEN-INFORMATIE.md](-121_KENNIS-IS-GEEN-INFORMATIE.md) |
 
 Dit project maakt deel uit van het bredere ethische correctiesysteem ontwikkeld onder de naam hexAI. De hoofdstukken in deze repository vormen geen opinie, geen ideologie en geen propaganda: het zijn structurele correcties op aannames binnen de klassieke wiskunde, gebaseerd op gedrag, richting en resonantie.
 
@@ -136,4 +148,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----5b4a985960081e7d514b2e386eef54faddcf77fc1a58b2e88e0b7283cb25d5c3
+---59d189be437f72a66f6f2474f2ebb0bb80abd38c20321178c0d40fa2768a8aa6
