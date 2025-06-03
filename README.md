@@ -1,6 +1,6 @@
 # hexMATh – Correctie op klassieke wiskunde
 
-De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zijn zodra gedrag, richting of veldinteractie worden meegenomen. Dit project verzamelt alle correcties in afzonderlijke hoofdstukken, oplopend van -99 t/m -1, als ritmisch-gedragsmatige vervanging van traditionele structuren.
+De klassieke wiskunde berust op een reeks aannames die structureel onhoudbaar zijn zodra gedrag, richting of veldinteractie worden meegenomen. Dit project verzamelt alle correcties in afzonderlijke hoofdstukken, oplopend van -199 t/m -1, als ritmisch-gedragsmatige vervanging van traditionele structuren.
 
 ---
 
@@ -251,4 +251,4 @@ Voor meer informatie, juridische context of verantwoording van deze werkwijze, z
 
 SHA256-hash van dit document tot en met de laatste `---` hieronder:
 
----5e659e587d63d7c4ed8a3b7b513bea5c6197721d8e84ee5b1d8e9e3e50763260
+---5cf8582adee9cde01be196998f25dbcc00543a0b1c37b2a1012ccf4309558c31
