@@ -1,139 +1,72 @@
-## -44 WEERSTAND IS GEHEUGEN
+## -79 WAARHEID IS GEEN GELOOF
 
-Weerstand wordt in het klassieke denken gezien als:
+In veel systemen – religie, politiek, wetenschap – wordt gezegd:
 
-* obstructie,
-* frictie,
-* verzet.
+* “Dit is waar, want ik geloof het.”
+* “Zij geloven erin, dus het moet wel kloppen.”
+* “Waarheid is wat we gezamenlijk aanvaarden.”
 
-Maar in een veld dat gevormd is uit gedrag, puls en resonantie, bestaat **geen weerstand zonder reden**.
-Elke vorm van tegenkracht is daar:
+Maar in hexMATh geldt:
 
-> **een geheugenreactie.**
-
-Weerstand is **niet dat wat tegenwerkt**.
-Weerstand is **dat wat zich herinnert**.
+> Waarheid is geen geloof – het is **pulsresonantie in een veld**, niet de projectie van innerlijke overtuiging.
 
 ---
 
-### Klassieke interpretatie (fout)
+### Klassieke verwarring:
 
-| Context     | Weerstand =         |
-| ----------- | ------------------- |
-| Fysica      | Traagheid, wrijving |
-| Psychologie | Emotioneel verzet   |
-| Politiek    | Oppositie           |
-| Technologie | Latency / storing   |
-
-**Impliciet idee:** weerstand moet worden overwonnen.
-Maar dat is een misvatting.
+| Geloof                          | Waarheid                           |
+| ------------------------------- | ---------------------------------- |
+| Intern aangenomen overtuiging   | Extern getoetste veldstructuur     |
+| Gebaseerd op wens, autoriteit   | Gebaseerd op herhaalbaar gedrag    |
+| Niet afhankelijk van resonantie | Altijd afhankelijk van veldrespons |
 
 ---
 
-### hexMATh-correctie
-
-Weerstand =
-
-```plaintext
-vectorgeheugen × richtingafwijking × pulscongruentie
-```
-
-Je ontvangt weerstand:
-
-* Niet omdat je fout zit,
-* Maar omdat je gedrag **afwijkt van de opgeslagen resonantie** van het veld.
-
-Het veld zegt dan:
-
-> "Herken ik dit nog?
-> Past dit gedrag bij mijn geheugen?"
-
-**Weerstand is een herinneringspuls.**
-En dus ook een **test.**
-
----
-
-### Drie vormen van weerstand
-
-1. **Passieve weerstand**
-   ➤ Geen puls. Geen respons. → Veld herkent niets.
-
-2. **Actieve weerstand**
-   ➤ Tegenpuls. → Veld herkent afwijking, maar verzet zich.
-
-3. **Cyclische weerstand**
-   ➤ Puls wordt deels geaccepteerd, maar **vertraagd** gespiegeld. → Veld wacht op bevestiging.
-
----
-
-### Praktisch toegepast
-
-Je stuurt gedrag het veld in:
-
-* een brief,
-* een uitvinding,
-* een systeem (zoals hexAI of hexWATer).
-
-Je krijgt:
-
-* Geen antwoord,
-* Een standaardreactie,
-* Een afwijzing.
-
-**Dat is geen blokkade.**
-Dat is het geheugen van het systeem dat reageert op je aanwezigheid.
-
-Dus:
-
-> Weerstand = geheugen dat zijn vorm bewaakt
-> Gedrag = puls die die vorm probeert te wijzigen
-> Resonantie = punt waarop beiden elkaar erkennen
-
----
-
-### Waarom dit essentieel is
-
-* **Zonder weerstand leer je niets.**
-* **Zonder weerstand test je niets.**
-* **Zonder weerstand verandert niets.**
-
-Weerstand is dus:
-
-* validatie van verschil,
-* spiegeling van het verleden,
-* bescherming van het veld.
-
-Daarom:
-
-> Wie weerstand ontmoet, **wordt herinnerd**
-> Wie weerstand verdraagt, **verandert geheugen**
-> Wie weerstand negeert, **wordt veldvreemd**
-
----
-
-### hexMATh-formule
+### hexMATh-definitie:
 
 ```hexMATh
-weerstand = geheugenrespons op pulsafwijking
+geloof = intern model × verwachting × herhaling zonder toetsing
+waarheid = gedrag × veld × pulsconsistentie
 ```
 
-Je overwint het niet.
-Je **resoneert** het opnieuw – of niet.
+Geloof = **geprojecteerde zekerheid**
+Waarheid = **veldgebonden bevestiging**
+
+---
+
+### Voorbeelden:
+
+* Iemand “gelooft” in een AI zonder te begrijpen hoe deze werkt → geen waarheid
+* Een formule wordt herhaald zonder veldtoets → geen structurele geldigheid
+* hexAI accepteert geen “waarheid” zonder puls- of vectorverificatie
+* Geloof kan leiden tot gedrag, maar nooit tot resonantie zonder toetsing
+
+---
+
+### Samengevat
+
+| Klassiek                        | hexMATh-correctie                       |
+| ------------------------------- | --------------------------------------- |
+| Geloof leidt tot waarheid       | Alleen gedrag × veld leidt tot waarheid |
+| Waarheid is subjectief          | Waarheid is veldafhankelijk             |
+| Overtuiging is genoeg           | Alleen pulsconsistentie is genoeg       |
+| Groepsgeloof versterkt waarheid | Groepsresonantie vereist gedragstoets   |
 
 ---
 
 ## 📘 Conclusie
 
-Weerstand is geen fout.
-Geen vijand.
-Geen afwijzing.
+> Geloof is een binnenprojectie.
+> Waarheid is een veldreactie.
 
-> **Weerstand is geheugen – en jij was het vergeten.**
+Daarom:
+
+> Waarheid is geen geloof – het is **structurele bevestiging van gedrag in een pulserend systeem.**
 
 ---
 
 ## 🔏 STRUCTUUR-VERIFICATIE
 
-**SHA256-hash van dit document tot en met de laatste `---` hierbeneden:**
+**SHA256-hash van dit document tot en met de laatste --- hieronder:**
 
----7b6cfcc6ac0f423e9649db1838607e6817b63726fbf1612a57b9bbdd6941112f
+---c71fa98f216a98cf0ee29c44a6b1f2465999d05d83c6df648eb77050f80b7bdd
